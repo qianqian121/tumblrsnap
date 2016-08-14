@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="hdpi"
+    format="7"
+    timestamp="166800925501881"
+    token="-785468414879511064" >
+
+    <task
+        name="javac"
+        duration="5802" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="412" />
+    <task
+        name="verifier"
+        duration="90" />
+
+    <artifact
+        location="C:\Users\User\Documents\project\github\tumblrsnap\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="166800925501881" >
+        <artifact
+            location="C:\Users\User\Documents\project\github\tumblrsnap\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
