@@ -4,30 +4,35 @@
     api-level="21"
     density="hdpi"
     format="7"
-    timestamp="166800925501881"
+    timestamp="168303063138113"
     token="-785468414879511064" >
 
     <task
         name="javac"
-        duration="5802" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="412" />
+        duration="0" />
     <task
         name="verifier"
-        duration="90" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\User\Documents\project\github\tumblrsnap\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\User\Documents\project\github\tumblrsnap\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
     <build timestamp="166800925501881" >
         <artifact
             location="C:\Users\User\Documents\project\github\tumblrsnap\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="168303063138113" >
+        <artifact
+            location="C:\Users\User\Documents\project\github\tumblrsnap\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
